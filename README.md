@@ -3,8 +3,7 @@
 # 👋 Diego Santos
 
 🌎 Choose your language:  
-- 🇧🇷 [Português](#-português)  
-- 🇺🇸 [English](#-english)  
+- 🇧🇷 [Português](#-português)    - 🇺🇸 [English](#-english)  
 
 ---
 
@@ -22,13 +21,6 @@ Tenho experiência em DevOpsSec, atuando com containers, automação de processo
 Também desenvolvo projetos que integram hardware e software, utilizando ESP32 e sensores, com foco em sistemas interativos. Tenho interesse em realidade virtual, neurotecnologia e interfaces homem-máquina, incluindo o desenvolvimento de uma luva VR com feedback sensorial.
 
 🎯 Objetivo: atuar com pesquisa e desenvolvimento, com foco em oportunidades internacionais, especialmente no Japão (MEXT).
-
----
-
-## 💻 Projetos em Destaque
-- 🔹 **[Nome do Projeto 1]** – descrição + tecnologia principal  
-- 🔹 **[Nome do Projeto 2]** – impacto + stack utilizada  
-- 🔹 **[Nome do Projeto 3]** – diferencial técnico  
 
 ---
 
@@ -62,13 +54,6 @@ I have experience in DevOpsSec, working with container-based environments, autom
 I also develop projects that combine hardware and software using ESP32 and sensors, focusing on interactive systems. I am particularly interested in virtual reality, neurotechnology, and human-machine interfaces, including the development of a VR glove with sensory feedback.
 
 🎯 Goal: pursue a career in research and development, aiming for international opportunities, especially in Japan (MEXT scholarship).
-
----
-
-## 💻 Featured Projects
-- 🔹 **[Project Name 1]** – short description + main technology  
-- 🔹 **[Project Name 2]** – impact + tech stack  
-- 🔹 **[Project Name 3]** – technical highlight  
 
 ---
 

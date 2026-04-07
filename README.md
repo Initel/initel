@@ -1,72 +1,50 @@
-## 👩🏻‍💻 Digo Eduardo da Silva Santos
-
-# 👋 Diego Santos
+## 👩🏻‍💻 Diego Santos
 
 🌎 Choose your language:  
-- 🇧🇷 [Português](#-português)    - 🇺🇸 [English](#-english)  
+🇧🇷 [Português](#-português) | 🇺🇸 [English](#-english)
 
 ---
 
 # 🇧🇷 Português
 
-**`Desenvolvedor FullStack`** **`Desenvolvedor de Sistemas Embarcados`** **`Analista de Dados e IA`**
+**`FullStack`** **`Embarcados`** **`Dados & IA`** **`DevOpsSec`**
 
-## 🚀 Sobre mim
-Sou estudante de Jogos Digitais pela FATEC e de Ciência da Computação pela Estácio, com foco em desenvolvimento de software, automação e arquitetura de sistemas.
+Sou estudante de Jogos Digitais (FATEC) e Ciência da Computação (Estácio), com foco em desenvolvimento, automação e arquitetura de sistemas.
 
-Atualmente atuo como analista de dados no setor de Melhoria Contínua, desenvolvendo dashboards e soluções digitais com Power BI, Power Apps, Power Automate e VBA, sempre buscando otimização de processos e geração de valor através de dados.
+Atuo como analista de dados em Melhoria Contínua, criando dashboards e automações com Power BI, Power Apps, Power Automate e VBA.
 
-Tenho experiência em DevOpsSec, atuando com containers, automação de processos e práticas voltadas à segurança e escalabilidade de aplicações. Na minha iniciação científica, aprofundo esses conceitos integrando desenvolvimento, operações e segurança em arquiteturas modernas.
+Tenho experiência em DevOpsSec e iniciação científica voltada à integração entre desenvolvimento, operações e segurança em ambientes modernos.
 
-Também desenvolvo projetos que integram hardware e software, utilizando ESP32 e sensores, com foco em sistemas interativos. Tenho interesse em realidade virtual, neurotecnologia e interfaces homem-máquina, incluindo o desenvolvimento de uma luva VR com feedback sensorial.
+Também desenvolvo projetos com ESP32 e sistemas interativos, com interesse em VR, neurotecnologia e interfaces homem-máquina.
 
-🎯 Objetivo: atuar com pesquisa e desenvolvimento, com foco em oportunidades internacionais, especialmente no Japão (MEXT).
-
----
-
-## ⚙️ Tecnologias & Ferramentas
-- Power BI, Power Apps, Power Automate, VBA  
-- Docker, Kubernetes (em estudo), DevOpsSec  
-- Python, automações e integração de sistemas  
-- ESP32, sensores e sistemas embarcados  
+🎯 Objetivo: atuar com pesquisa e desenvolvimento, com foco internacional (MEXT 🇯🇵).
 
 ---
 
-## 📚 Interesses
-- Realidade Virtual (VR)  
-- Neurotecnologia  
-- Interfaces Homem-Máquina  
-- Sistemas distribuídos e segurança  
+## ⚙️ Stack
+Power BI • Power Apps • Power Automate • VBA  
+Python • Docker • Kubernetes • DevOpsSec  
+ESP32 • Sensores • Sistemas Embarcados  
 
 ---
 
 # 🇺🇸 English
 
-**`FullStack Developer`** **`Embedded Systems Developer`** **`Data and AI Analyst`**
+**`FullStack`** **`Embedded Systems`** **`Data & AI`** **`DevOpsSec`**
 
-## 🚀 About Me
-I am a Digital Games student at FATEC and a Computer Science student at Estácio, focused on software development, automation, and system architecture.
+I am a Digital Games student (FATEC) and a Computer Science student (Estácio), focused on development, automation, and system architecture.
 
-I currently work as a Data Analyst in Continuous Improvement, building dashboards and digital solutions using Power BI, Power Apps, Power Automate, and VBA, always aiming to optimize processes and deliver business value through data.
+I work as a Data Analyst in Continuous Improvement, building dashboards and automations using Power BI, Power Apps, Power Automate, and VBA.
 
-I have experience in DevOpsSec, working with container-based environments, automation pipelines, and security practices for scalable applications. In my undergraduate research (scientific initiation), I explore the integration of development, operations, and security in modern architectures.
+I have experience in DevOpsSec and conduct undergraduate research focused on integrating development, operations, and security in modern environments.
 
-I also develop projects that combine hardware and software using ESP32 and sensors, focusing on interactive systems. I am particularly interested in virtual reality, neurotechnology, and human-machine interfaces, including the development of a VR glove with sensory feedback.
+I also build projects with ESP32 and interactive systems, with interests in VR, neurotechnology, and human-machine interfaces.
 
-🎯 Goal: pursue a career in research and development, aiming for international opportunities, especially in Japan (MEXT scholarship).
-
----
-
-## ⚙️ Tech Stack
-- Power BI, Power Apps, Power Automate, VBA  
-- Docker, Kubernetes (learning), DevOpsSec  
-- Python, automation and system integration  
-- ESP32, sensors, embedded systems  
+🎯 Goal: work with research and development, aiming for international opportunities (MEXT 🇯🇵).
 
 ---
 
-## 📚 Interests
-- Virtual Reality (VR)  
-- Neurotechnology  
-- Human-Machine Interfaces  
-- Distributed systems and security  
+## ⚙️ Stack
+Power BI • Power Apps • Power Automate • VBA  
+Python • Docker • Kubernetes • DevOpsSec  
+ESP32 • Sensors • Embedded Systems  
